@@ -2,9 +2,9 @@
 
 # Table Of Contents
 
-[Corporate Banking](#cb)
-[Products (Business Models)](#cbp)
-[Loss Leader](#cbll)
+1. [Corporate Banking](#cb)
+2. [Products (Business Models)](#cbp)
+3. [Loss Leader](#cbll)
 [](#cb)
 [](#cb)
 [](#cb)
